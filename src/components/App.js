@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>My React App, my flashlight</h1>
+        <h1>My React App</h1>
       </div>
     );
   }
